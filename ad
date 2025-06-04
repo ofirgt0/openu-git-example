@@ -1,0 +1,23 @@
+[33mcommit 0be3854c02782a9dfa7409e2c7ff834fdb843d93[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: ofirgt0 <ofirgt0@gmail.com>
+Date:   Wed Jun 4 09:25:25 2025 +0300
+
+    Initial commit3
+
+[1mdiff --git a/lala.txt b/lala.txt[m
+[1mindex e69de29..ff43ad2 100644[m
+[1m--- a/lala.txt[m
+[1m+++ b/lala.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32msdfsdfsd[m
+\ No newline at end of file[m
+
+[33mcommit 764d224c9133394188db7e9746e3b1527213c9da[m
+Author: ofirgt0 <ofirgt0@gmail.com>
+Date:   Wed Jun 4 08:47:29 2025 +0300
+
+    Initial commit
+
+[1mdiff --git a/lala.txt b/lala.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
